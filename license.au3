@@ -3,8 +3,7 @@
 
 	coded by Jefrey S. Santos
 		<jefreysobreira[at]gmail[dot]com>
-	greatly enhanced by Perceval Faramaz
-		<perfaram[at]windowslive[dot]com>
+	greatly enhanced by Perceval Faramaz, @perfaram
 #ce
 #include-once
 #include <Crypt.au3>
