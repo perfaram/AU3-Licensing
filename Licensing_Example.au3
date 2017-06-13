@@ -13,4 +13,3 @@ setinfo(True) ; show "you have 10 days left" when the license is gonna expire?
 If Not license_registered() Then
    license_warning()
 EndIf
-;_InputBoxEx("Numéro de balise", "Entrez le numéro de téléphone de la balise :", True, False, Default)
